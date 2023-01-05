@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    background-color: gray;
+}
+.flex{
+    display: flex;
+}
+.right{
+    display: block;
+}
+.right .top{
+    padding-top: 120px;
+    padding-left: 120px;
+    border: 3px solid transparent;
+    font-family: Poppins;
+    font-size: 40px;
+    color: white;
+
+}
+.right .bottom{
+    padding-top: 280px;
+    padding-left: 120px;
+    border: 3px solid transparent;
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 70px;
+    color: white;
+}
+.left img{
+    height: 965px;   
+    width: 720px;
+}
+
